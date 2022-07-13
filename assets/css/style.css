@@ -175,7 +175,8 @@ button {
 } */
 
  .work img {
-
+    width: 88px;
+    height: 77px;
     padding: 11px;
     box-shadow: 0 4px 8px 0 rgba(20, 5, 5, 0.603);
     transition: 0.3s;
