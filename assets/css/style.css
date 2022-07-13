@@ -52,6 +52,10 @@ a {
     
 }
 
+a img {
+    size:200pm
+}
+
 p {
     color: #0c0c01;
     font-size: 22px;
