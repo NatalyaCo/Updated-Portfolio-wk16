@@ -163,7 +163,7 @@ button {
 
 }
 
-/* .about-me img {
+.about-me img {
     size: 70px;
     border: 5px;
     color: black;
@@ -174,16 +174,16 @@ button {
 
 } */
 
-/* .work img {
+ .work img {
 
     padding: 11px;
     box-shadow: 0 4px 8px 0 rgba(20, 5, 5, 0.603);
     transition: 0.3s;
     border-radius: 17%;
 
-} */
+} 
 
-/* .contact-me img {
+ .contact-me img {
     max-height: 270px;
     border: 5px;
     color: black;
@@ -192,7 +192,7 @@ button {
     transition: 0.3s;
     border-radius: 17%;
 
-} */
+} 
 
 
 article {
