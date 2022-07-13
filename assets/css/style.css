@@ -99,7 +99,8 @@ p {
 }
 
 button {
-    color: burlywood;
+    text-decoration-color: #0c0c01;
+    color: rgb(14, 11, 7);
     font-size: 20px;
     height: 77px;
     width: 99px;
@@ -178,7 +179,7 @@ button {
 
 } */
 
-.proOne img {
+.proOne {
    size:120px;
     padding: 11px;
     box-shadow: 0 4px 8px 0 rgba(20, 5, 5, 0.603);
